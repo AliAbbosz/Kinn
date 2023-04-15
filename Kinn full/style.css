@@ -1,0 +1,273 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans&display=swap");
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: "Open Sans", sans-serif;
+}
+.container {
+  width: 80%;
+  margin: auto;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 20px;
+}
+.navbar2 img{
+  padding-right: 120px;
+  
+}
+ul {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  gap: 50px;
+}
+li {
+  list-style: none;
+  color: #56593d;
+}
+.navbar3 img {
+  padding: 8px;
+}
+
+section {
+  background: url(/images/Rectangle\ \(1\).png);
+  height: 700px;
+  margin-top: 20px;
+}
+dir {
+  width: 100%;
+  height: 600px;
+  padding-right: 40px;
+  display: flex;
+  align-items: end;
+  flex-direction: column;
+  justify-content: end;
+}
+
+h3 {
+  margin-bottom: 10px;
+  font-size: 15px;
+  color: #56593d;
+}
+h1 {
+  margin-bottom: 10px;
+  font-size: 35px;
+  font-weight: 600;
+  color: #56593d;
+}
+button {
+  width: 144px;
+  height: 46px;
+  background-color: #56593d;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+p {
+  font-size: 45px;
+  text-align: center;
+  margin-top: 50px;
+  color: #56593d;
+}
+.icon1 {
+  display: flex;
+  align-items: center;
+}
+.icon2 {
+  display: flex;
+  align-items: center;
+}
+.bobo {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  margin-top: 20px;
+}
+a {
+  text-decoration: none;
+  color: #56593d;
+}
+.za {
+  text-align: center;
+  margin-top: 60px;
+  font-size: 24px;
+}
+.rasmlar {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  text-align: center;
+  margin-top: 100px;
+  gap: 50px;
+}
+h5 {
+  margin-top: 15px;
+}
+h6 {
+  margin-top: 9px;
+}
+.main {
+  background-color: #ffffef;
+  width: 105%;
+  height: 700px;
+  padding: 9px 8px;
+  margin-top: 50px;
+  }
+  .surat{
+    width: 370px;
+    height: 370px;
+  }
+  .der{
+    background: url(/images/Rectangle\ \(5\).png);
+    width: 1346px;
+    height: 738px;
+  }
+  .df{
+    font-size: 17px;
+    text-align: center;
+    padding-top: 50px;
+  }
+  .wq{
+    font-size: 50px;
+    text-align: center;
+    padding-top: 30px;
+    font-weight: 500;
+  }
+  main{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: 80px;
+    background-color: #FFFFEF;
+    width: 1360px;
+    height: 746px;
+  }
+  main img{
+    width: 743px;
+    height: 618px;
+  }
+  .divcha2{
+    text-align: center;
+    }
+    .er{
+      text-align: center;
+    }
+    .ty{
+      width: 743px;
+      height: 885px;
+    }
+    .bn{
+      width: 1360px;
+      height: 1014px;
+    }
+    .nm{
+      background-color: #ffffef;
+      margin-top: 70px;
+      width: 1328px;
+      height: 279px;
+      text-align: center;
+      
+      }
+    .jk{
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      padding-left: 430px;
+      
+      
+      
+    }
+    .knop{
+      width: 144px;
+      height: 22px;
+      border: none;
+      cursor: pointer;
+      
+    }
+    .zz{
+      font-size: 28px;
+      padding-top: 50px;
+      
+    }
+    .cc{
+      font-size: 17px;
+      padding-bottom: 30px;
+      
+    }
+    input{
+      border: none;
+      border-bottom: 1px solid black;
+      width: 340px;
+      background-color: #ffffef;
+    }
+    
+    .tt{
+      width: 320px;
+      height: 320px;
+      margin-top: 50px;
+      
+      }
+    .gg{
+      text-align: center;
+      font-weight: 400;
+      font-size: 25px;
+      padding-top: 20px;
+    }
+    .images{
+      margin-top: 70px;
+      background-color: #ffffef;
+      width: 1360px;
+      height: 520px;
+
+       }
+       .images img{
+        margin-left: 13px;
+       }
+       .bb{
+        font-size: 16px;
+        color: white;
+       }
+       .tt{
+        color: rgb(255, 255, 255);
+        
+       }
+       footer{
+        background-color: #717353;
+        height: 470px;
+        display: flex;
+        justify-content: space-around;
+        padding-top: 50px;
+        margin-top: 50px;
+        }
+        li{
+          padding-top: 20px;
+          cursor: pointer;
+        }
+        .ee a{
+          color: #ffffff;
+          font-weight: 200;
+          
+        }
+        h6{
+          font-weight: 200;
+        }
+        .divlarr4 img{
+          padding: 10px;
+          cursor: pointer;
+        }
+        span{
+          font-weight: 900;
+          font-size: 17px;
+        }
+       hr{
+        margin-top: 15px;
+        text-align: center;
+       }
+       
